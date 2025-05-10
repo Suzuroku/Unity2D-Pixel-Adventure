@@ -1,3 +1,3 @@
-# Unity2D-Pixel Adventure《水果龍》
+# Unity2D-Pixel-Adventure《水果龍》
 2D 像素冒險遊戲，共2關。玩家需要在充滿陷阱的地圖中閃避各種障礙物，並收集地圖上的水果，最終安全抵達終點。
 [用途 ： 作品集]
